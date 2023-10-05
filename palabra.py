@@ -1,4 +1,4 @@
-frase_1 = str(input("Introduce tu frase para invertir"))
+frase_1 = str(input("Introduce tu frase para invertir "))
 frase_list = frase_1.split(" ")
 print(frase_list)
 frase_list.reverse()
